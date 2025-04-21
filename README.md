@@ -1,7 +1,5 @@
-# 💫 About Me: 🧠💻 Dados, Nuvem e muito café ☕
-  <br><br>Meu nome é Alison e sou estudante de Análise e Desenvolvimento de Sistemas.   <br><br><br><br> 🛠️ Tecnologias que uso<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)<br><br><br><br> 📚 Atualmente estudando <br><br>- 🌱 **Em constante aprendizado!**    
-📊 Especializando-me em Engenharia de Dados
-☁️ Estudando Arquitetura de Soluções em Nuvem[Sistema de Gestão Escolar](https://github.com/seuusuario/sistema-gestao-escolar) — CRUD com PostgreSQL e Docker  <br>- [API REST com Python e Flask](https://github.com/seuusuario/api-flask-rest) — Integração com banco de dados e boas práticas REST<br><br> 📊 GitHub Stats<br><br>![Alison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight)
+# 💫 About Me:
+Meu nome é Alison e sou estudante de Análise e Desenvolvimento de Sistemas.   <br><br> 📚 Atualmente estudando <br><br>   Engenharia de Dados <br>  Arquitetura de Soluções em Nuvem   <br><br><br><br><br> 🚀 Projetos em destaque <br><br>- [Sistema de Gestão Escolar](https://github.com/seuusuario/sistema-gestao-escolar) — CRUD com PostgreSQL e Docker  <br>- [API REST com Python e Flask](https://github.com/seuusuario/api-flask-rest) — Integração com banco de dados e boas práticas REST<br><br> 📊 GitHub Stats<br><br>![Alison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight)
 
 
 ## 🌐 Socials:
@@ -19,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlisonMedeiros&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlisonMedeiros&icon=0&color=0)](https://visitcount.itsvg.in)
